@@ -1,0 +1,19 @@
+git init Inicializacion
+
+git add Agrega un archivo al repositorio
+
+git commit Actualiza el repositorio
+
+git status Muestra ele stado del repositorio
+
+git diff Muestra las diferencias de los archivos
+
+git log Muestra un alista con los commit que se han creado 
+
+git checkout Elimina un archivo 
+
+git push sube los archivos al servidor
+
+git clone Clona un repositorio
+
+git remote Se conecta a un repositorio remoto
