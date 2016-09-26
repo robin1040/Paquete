@@ -1,0 +1,5 @@
+a6c95315024b5f4412cc941021633853  usr/bin/testPackage
+1643286aff0d81f4907c15ab3f5df79e  usr/share/doc/testpackage/README.Debian
+37a2f08c9a001f8d9261602a0df2b247  usr/share/doc/testpackage/changelog.Debian.gz
+e1ab0d0a68a2b21f0126117a7a4fb5e4  usr/share/doc/testpackage/copyright
+9caffaf6fee707e947bdc653d8c01500  usr/share/man/man1/testPackage.1.gz

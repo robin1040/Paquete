@@ -1,0 +1,10 @@
+Package: testpackage
+Version: 0.2-1
+Architecture: amd64
+Maintainer: Robinson Ramirez <robinson.ramirez@c3.itm.edu.co>
+Installed-Size: 16
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: Tarea
+ Tarea numero 6 gihub

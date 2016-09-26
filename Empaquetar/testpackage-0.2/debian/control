@@ -1,0 +1,15 @@
+Source: testpackage
+Section: unknown
+Priority: optional
+Maintainer: Robinson Ramirez <robinson.ramirez@c3.itm.edu.co>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: https://anonscm.debian.org/collab-maint/testpackage.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/testpackage.git
+
+Package: testpackage
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Tarea
+ Tarea numero 6 gihub
